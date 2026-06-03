@@ -27,15 +27,6 @@ I'm a **Computer Science Engineering student** from India 🇮🇳. I'm passiona
 
 ---
 
-## 🏆 Top Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **[Project Name 1]** | A brief 1-sentence description of what this project does and why it's awesome. | `React` `Node.js` `MongoDB` | [Live Demo](https://#) <br> [Source Code](https://#) |
-| **[Project Name 2]** | An AI-powered tool that solves a specific problem using deep learning. | `Python` `PyTorch` `FastAPI` | [Live Demo](https://#) <br> [Source Code](https://#) |
-| **[Project Name 3]** | A full-stack web application with real-time features and responsive design. | `Next.js` `Tailwind` `PostgreSQL` | [Live Demo](https://#) <br> [Source Code](https://#) |
-
----
 
 ## ⚙️ Tech Stack
 
