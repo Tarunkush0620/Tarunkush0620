@@ -1,6 +1,8 @@
 <!-- Banner Image -->
 <div align="center">
-  <video src="https://github.com/Tarunkush0620/Tarunkush0620/raw/main/now_make_this_in_d_add_animat.mp4" width="100%" autoplay loop muted playsinline></video>
+
+https://github.com/Tarunkush0620/Tarunkush0620/raw/main/now_make_this_in_d_add_animat.mp4
+
 </div>
 
 <div align="center">
