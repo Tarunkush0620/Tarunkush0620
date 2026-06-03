@@ -77,7 +77,7 @@ I'm a **Computer Science Engineering student** from India 🇮🇳. I'm passiona
 
 <div align="center">
   <!-- Note: To make WakaTime work, you must connect it to your GitHub Readme Stats or use a public WakaTime profile -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tarunkush0620&theme=tokyonight&hide_border=true&title_color=3b82f6" width="98%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tarunkush0620&theme=tokyonight&hide_border=true&title_color=3b82f6" width="98%" /> -->
 </div>
 
 <br />
