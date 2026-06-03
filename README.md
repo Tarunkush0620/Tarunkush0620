@@ -92,13 +92,13 @@ I'm a **Computer Science Engineering student** from India 🇮🇳. I'm passiona
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/tarunkushwaha">
+  <a href="https://www.linkedin.com/in/tarun-kushwaha-984b63326?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/tarunkushwaha">
+  <a href="https://x.com/Tarunkushw53051?t=4ssodUZO1XNm4TrVGac9hg&s=09">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tarunkushwaha5656@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
