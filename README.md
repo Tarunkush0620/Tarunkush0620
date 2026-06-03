@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="./banner.png" alt="Header Banner" width="100%" style="border-radius: 15px;" />
+  <video src="./now_make_this_in_d_add_animat.mp4" width="100%" autoplay loop muted></video>
 </div>
 
 <div align="center">
