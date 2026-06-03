@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=300&section=header&text=Tarun%20Kushwaha&fontSize=90&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descAlign=62&fontColor=ffffff" alt="Header" />
+  <img src="./banner.png" alt="Header Banner" width="100%" style="border-radius: 15px;" />
 </div>
 
 <div align="center">
