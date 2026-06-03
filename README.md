@@ -1,8 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-
-https://github.com/Tarunkush0620/Tarunkush0620/raw/main/now_make_this_in_d_add_animat.mp4
-
+  <img src="./banner.gif" alt="Header Banner" width="100%" style="border-radius: 15px;" />
 </div>
 
 <div align="center">
