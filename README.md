@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-<div align="center">
-  <img src="./banner.gif" alt="Header Banner" width="100%" style="border-radius: 15px;" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=3b82f6&center=true&vCenter=true&width=900&lines=Software+Developer;AI+Enthusiast;Computer+Vision+Learner;Full+Stack+Developer" alt="Typing Animation" />
